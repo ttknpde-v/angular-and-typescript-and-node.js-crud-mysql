@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+a {
+  color: black;
+  font-size: 23px;
+  transition: ease-in 0.3s;
+
+}
+
+a:hover {
+  color: black;
+  font-size: 21px;
+  transition: ease-out 0.3s;
+}
